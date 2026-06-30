@@ -1,15 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace 'com.android.adbkeyboard'
+    namespace 'com.sys.tool.inputpad'
     compileSdk 33
 
     defaultConfig {
-        applicationId 'com.android.adbkeyboard'
+        applicationId 'com.sys.tool.inputpad'
         minSdk 21
         targetSdk 33
         versionCode 2
-        versionName "2.0"
+        versionName "2.1"
     }
 }
 
